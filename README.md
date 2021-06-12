@@ -1,10 +1,10 @@
 ### Machine Learning Researcher
-- Research the field about the computer vision tastks and the deep learning algorithms
+- **Research the field about the computer vision tastks and the deep learning algorithms**
 
 ### Interest
-- Image matching
-- Object detection
-- Neural Architercutre search
+- **Image matching**
+- **Object detection**
+- **Neural architercutre search**
 
 
 <div align=center>
