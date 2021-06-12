@@ -5,6 +5,7 @@
 - **Image matching**
 - **Object detection**
 - **Neural architercutre search**
+- **Auto labeling**
 
 
 <div align=center>
