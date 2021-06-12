@@ -5,7 +5,7 @@
 - **Image matching**
 - **Object detection**
 - **Neural architercutre search**
-- **Auto labeling**
+- **Auto labeling and synthetic image generation**
 
 
 <div align=center>
